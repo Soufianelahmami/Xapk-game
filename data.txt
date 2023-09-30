@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "ac4d8ea4-18eb-4387-b9c5-5601fb590dcf",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdctOBV.webp",
+	 "title": "Xapk game",
+	 "text": "As of my last knowledge update in September 2021, XAPK is a file format used for distributing and installing Android apps and games. It combines the APK (Android Application Package) file and the OBB (Opaque Binary Blob) file into a single package. This format is often used for larger Android games that require additional data files",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcteEB.jpg",
+	 "title": "Xapk game",
+	 "text": "Galactic Explorer is an immersive open-world sci-fi adventure game set in a vast and uncharted galaxy. Players take on the role of a space explorer equipped with a state-of-the-art spacecraft. The goal is to navigate through different star systems, discovering new planets, engaging in intergalactic trade, and uncovering the mysteries of the cosmos.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdctWmb.webp",
+	 "title": "Xapk game",
+	 "text": "Players can explore a procedurally generated galaxy with diverse planets, each offering unique landscapes, wildlife, and resources. Discover hidden secrets, ancient civilizations, and abandoned space stations.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcthIj.webp",
+	 "title": "Xapk game",
+	 "text": "Upgrade and customize your spacecraft with advanced technology, weapons, and defensive systems. Adapt your ship to different environments and challenges encountered in the vastness of space.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdctwLQ.webp",
+	 "title": "Xapk game",
+	 "text": "Engage in trade with alien civilizations and establish trade routes between planets. The economy is dynamic, affected by supply and demand, creating opportunities for profit or loss",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdctjhx.webp",
+	 "title": "Xapk game",
+	 "text": "Encounter hostile alien species, space pirates, and other challenges that require strategic thinking and combat skills. Engage in epic space battles in real-time, utilizing a variety of weapons and tactics.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
